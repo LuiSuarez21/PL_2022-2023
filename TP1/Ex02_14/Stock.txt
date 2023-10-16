@@ -1,0 +1,6 @@
+
+PRODUTO=twix=2.3=31.
+PRODUTO=Kitkat=2.1=10.
+PRODUTO=Snikers=2.3=13.
+PRODUTO=Bolachas Maria=1.5=8.
+MOEDEIRO=0.
